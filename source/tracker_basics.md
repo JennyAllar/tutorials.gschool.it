@@ -104,3 +104,31 @@ work that you have during gSchool.
 * [Getting Started in Tracker](https://www.pivotaltracker.com/help/gettingstarted){:target="_blank"}
 * [Writing good user stories](http://pivotallabs.com/well-formed-stories/){:target="_blank"}
 * [Another look at writing good user stories](https://help.rallydev.com/writing-great-user-story){:target="_blank"}
+
+```
+                  \
+                              \
+                               \\
+                                \\
+                                 >\/7
+                             _.-(6'  \
+                            (=___._/` \
+                                 )  \ |
+                                /   / |
+                               /    > /
+                              j    < _\
+                          _.-' :      ``.
+                          \ r=._\        `.
+                         <`\\_  \         .`-.
+                          \ r-7  `-. ._  ' .  `\
+                           \`,      `-.`7  7)   )
+                            \/         \|  \'  / `-._
+                                       ||    .'
+                                        \\  (
+gSchool                                 >\  >
+                                     ,.-' >.'
+                                    <.'_.''
+                                      <'
+
+        CRAZYTOWN
+```

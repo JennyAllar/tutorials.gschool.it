@@ -124,3 +124,27 @@ When you are done, push your code back up to GitHub for review.
 
 View the [README](https://github.com/gSchool/ruby_basics/blob/master/README.md){:target="_blank"}
 for more information about specifics of each program you will write.
+
+```
+                                               ____
+   ___                                      .-~. /_"-._
+  `-._~-.                                  / /_ "~o\  :Y
+      \  \                                / : \~x.  ` ')
+       ]  Y                              /  |  Y< ~-.__j
+      /   !                        _.--~T : l  l<  /.-~
+     /   /                 ____.--~ .   ` l /~\ \<|Y
+    /   /             .-~~"        /| .    ',-~\ \L|
+   /   /             /     .^   \ Y~Y \.^>/l_   "--'
+  /   Y           .-"(  .  l__  j_j l_/ /~_.-~    .
+ Y    l          /    \  )    ~~~." / `/"~ / \.__/l_
+ |     \     _.-"      ~-{__     l  :  l._Z~-.___.--~
+ |      ~---~           /   ~~"---\_  ' __[>
+ l  .                _.^   ___     _>-y~
+  \  \     .      .-~   .-~   ~>--"  /
+   \  ~---"            /     ./  _.-'
+    "-.,_____.,_  _.--~\     _.-~
+                ~~     (   _}
+                        `. ~(
+                          )  \
+                         /,`--'~\--'
+```
